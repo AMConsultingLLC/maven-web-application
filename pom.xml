@@ -95,13 +95,13 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
+	      <id>releases</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://52.55.15.98:8081/repository/bootcamp-nexus-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>snapshots</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://52.55.15.98:8081/repository/bootcamp-nexus-snapshot/</url>
 	    </snapshotRepository>
