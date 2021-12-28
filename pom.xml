@@ -1,6 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
+	<version>0.0.1-SNAPSHOT</version>
 	
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
@@ -95,13 +96,13 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>releases</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://52.91.22.187:8081/repository/ebay-bts-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>snapshots</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://52.91.22.187:8081/repository/ebay-bts-release/</url>
 		     </snapshotRepository>
