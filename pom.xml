@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>releases</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.23.218:8081/repository/sonar-release/</url>
+	      <url>http://52.91.22.187:8081/repository/sonar-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>snapshots</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.23.218:8081/repository/Sonar-snapshot/</url>
+	      <url>http://52.91.22.187:8081/repository/Sonar-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
