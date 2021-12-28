@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>releases</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.55.15.98:8081/repository/bootcamp-nexus-release/</url>
+	      <url>http://34.229.139.88:8081/repository/sonar-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>snapshots</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.55.15.98:8081/repository/bootcamp-nexus-snapshot/</url>
+	      <url>http://34.229.139.88:8081/repository/Sonar-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
