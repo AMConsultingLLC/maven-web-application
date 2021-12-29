@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to LandmarkTechnologies</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
+<h1 align="center">Testing my Site</h1>
+<h1 align="center">Hope it works!
 	</h1>
 <hr>
 <br>
