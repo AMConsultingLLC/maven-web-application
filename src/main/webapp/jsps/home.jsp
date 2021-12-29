@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Testing my Site</h1>
+<h1 align="center">Testing Jenkins Pipeline - Build Triggers</h1>
 <h1 align="center">Hope it works!
 	</h1>
 <hr>
