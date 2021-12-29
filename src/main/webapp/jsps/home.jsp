@@ -9,6 +9,7 @@
 </head>
 </head>
 <body>
+	<h1 align="center">Welcome to Ebay Black Friday Project</h1>
 <h1 align="center">Testing Jenkins Pipeline - Build Trigger</h1>
 <h1 align="center">Hope it works!
 	</h1>
